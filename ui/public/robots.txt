@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Disallow: /api/
+Disallow: /assets/
+Disallow: /components/
+Disallow: /directive/
+Disallow: /layout/
+Disallow: /plugins/
